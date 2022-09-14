@@ -1,0 +1,19 @@
+body{
+   margin: 5%;
+   padding: 5%;
+   
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    height: 50vw;
+    width: 50vw;
+    
+  }
+.grid-item{
+   
+    border: 1px solid rgb(0, 0, 0);
+ 
+}
+
+
